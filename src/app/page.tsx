@@ -1102,7 +1102,7 @@ export default function Home() {
             </div>
             <div>
               <h1 className="text-xl font-bold">Система учёта посещаемости</h1>
-              <p className="text-sm text-muted-foreground">ИП &quot;Ландышев А.Н.;</p>
+              <p className="text-sm text-muted-foreground">ИП &quot;Ландышев А.Н.&quot;</p>
             </div>
           </div>
         </div>
